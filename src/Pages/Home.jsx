@@ -31,8 +31,8 @@ class Home extends React.Component {
                 </h1>
             </div>
             <div className="buttonformat">
-                
-                    <Button href="https://accounts.spotify.com/authorize?client_id=3ebf3239b7d64a0e8c26da37e44e200f&response_type=code&redirect_uri=http%3A%2F%2Flocalhost:3000/welcome&scope=user-top-read%20user-read-currently-playing%20user-read-playback-state%20playlist-modify-public%20playlist-modify-private&amp;response_type=token&amp;show_dialog=true" variant="secondary" size="lg">
+                    //ENTER YOUR CLIENT ID
+                    <Button href="https://accounts.spotify.com/authorize?client_id={ENTER YOUR CLIENT ID HERE}&response_type=code&redirect_uri=http%3A%2F%2Flocalhost:3000/welcome&scope=user-top-read%20user-read-currently-playing%20user-read-playback-state%20playlist-modify-public%20playlist-modify-private&amp;response_type=token&amp;show_dialog=true" variant="secondary" size="lg">
                         Login to Spotify
                     </Button>
                 
