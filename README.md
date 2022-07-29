@@ -1,6 +1,7 @@
 # mySpot
 
 > mySpot is a Spotify app intended to display user analytics such as favorite artists, songs, and automating personalized playlists.
+>(waiting for Spotify Quota Extension to deploy application)
 
 
 ![Screen Shot 2022-07-29 at 3 10 25 PM](https://user-images.githubusercontent.com/63078485/181852136-daecda78-a963-4107-a50e-6cda00c3fb63.png)
